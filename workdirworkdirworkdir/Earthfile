@@ -1,0 +1,3 @@
+workdir:
+    LOCALLY
+    RUN echo "what should this be? $(pwd)"
